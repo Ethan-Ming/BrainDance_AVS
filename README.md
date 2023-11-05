@@ -24,7 +24,7 @@ This project is a cosplay prop that simulates the Audio-Visual-Stimulation (AVS)
 
 ## Schematic and Simlation
 
-!Schematic
+https://wokwi.com/projects/380527426842242049
 
 ## License
 
