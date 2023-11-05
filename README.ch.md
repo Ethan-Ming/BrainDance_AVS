@@ -3,6 +3,8 @@
 
 本项目旨在将 AVS 功能移植到BD（超梦机/幻舞）上，以实现真实的效果。该道具可以通过按钮按下来切换颜色和预设配置文件。默认配置文件包括起床帮助模式和睡眠帮助模式。如果您想更改设置，可以在 main.py 中进行更改。您可以更改 RGB 颜色、时长，并添加或删除新幻舞预设
 
+<img src="https://i.imgur.com/1NuFsKd_d.webp?maxwidth=760&fidelity=grand" width="50%" height="50%">
+
 ## 使用
 
 如果是通过咸鱼购买的，程序已经烧录好。按照这个[![en](https://img.shields.io/badge/指南-blue.svg)](https://github.com/Ethan-Ming/Cyberpunk_AVS/blob/main/gUIDE/guide.md)拼好，插上电即可使用
