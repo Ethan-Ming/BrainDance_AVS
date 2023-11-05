@@ -6,6 +6,8 @@ This project is a cosplay prop that simulates the Audio-Visual-Stimulation (AVS)
 
 <img src="https://i.imgur.com/1NuFsKd_d.webp?maxwidth=760&fidelity=grand" width="50%" height="50%">
 
+source:imgur.com/gallery/hycC6M2
+
 ## Features
 
 - Switch colors and preset profiles with a button press
