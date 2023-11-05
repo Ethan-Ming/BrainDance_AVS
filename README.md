@@ -13,6 +13,7 @@ This project is a cosplay prop that simulates the Audio-Visual-Stimulation (AVS)
 - 1 x Microswitch
 - 2 x 5050 RGB LEDs
 - 1 x ESP32 board
+- 1 x virbrate motor
 
 ## Installation
 
