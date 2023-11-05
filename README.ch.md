@@ -5,9 +5,12 @@
 
 ## 使用
 
-如果是通过咸鱼购买的，程序已经烧录好。按照这个[![en](https://img.shields.io/badge/指南-blue.svg)](https://github.com/Ethan-Ming/Cyberpunk_AVS/blob/main/gUIDE/guide.md)拼好即可使用
+如果是通过咸鱼购买的，程序已经烧录好。按照这个[![en](https://img.shields.io/badge/指南-blue.svg)](https://github.com/Ethan-Ming/Cyberpunk_AVS/blob/main/gUIDE/guide.md)拼好，插上电即可使用
 
-按下按钮切换预设，按钮2切换颜色
+ 按钮行为☑️：按下按钮1切换幻舞预设程序，按钮2切换预设颜色
+  
+
+  
 
 如果需要更改设置，参考下方手动设置
 
