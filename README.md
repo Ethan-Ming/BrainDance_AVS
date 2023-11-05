@@ -1,4 +1,4 @@
-[![中文](https://img.shields.io/badge/中文-CN-red.svg)](https://github.com/Ethan-Ming/Cyberpunk_AVS/blob/main/README.ch.md) | ![中文](https://img.shields.io/badge/English-EN-blue.svg)
+[![中文](https://img.shields.io/badge/中文文稿-CN-red.svg)](https://github.com/Ethan-Ming/Cyberpunk_AVS/blob/main/README.ch.md)
 # Functional Braindance
 
 This project is an enhanced cosplay prop from Cyberpunk 2077 that does the Audio-Visual-Stimulation (AVS) function. The prop is based on the Braindance (BD) device from the game and can be used to create immersive experiences.
