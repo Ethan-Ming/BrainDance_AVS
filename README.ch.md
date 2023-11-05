@@ -12,7 +12,7 @@
 
 ## 手动设置
 
-1. 克隆本项目到本地。
+1. 克隆本项目到本地。并安装Ardunio IDE
 2. 在 main.py 中更改配置文件。
 3. 使用ardunio IDE连接 ESP32 开发板。
 4. 上传 main.py。
