@@ -5,16 +5,18 @@
 
 ## 使用
 
-如果是通过咸鱼购买的，程序已经烧录好按照这个[![en](https://img.shields.io/badge/指南-blue.svg)](https://github.com/Ethan-Ming/Cyberpunk_AVS/blob/main/gUIDE/guide.md)拼装即可使用
+如果是通过咸鱼购买的，程序已经烧录好。按照这个[![en](https://img.shields.io/badge/指南-blue.svg)](https://github.com/Ethan-Ming/Cyberpunk_AVS/blob/main/gUIDE/guide.md)拼好即可使用
+
+按下按钮切换预设，按钮2切换颜色
 
 如果需要更改设置，参考下方手动设置
 
 ## 手动设置
 
 1. 克隆本项目到本地。并下载安装Ardunio IDE
-2. 在MicoPython/main.py 中更改配置文件。
-3. 使用ardunio IDE连接 ESP32 开发板。
-4. 上传 main.py。
+2. 在MicoPython/main.py 中按你的喜好更改配置文件， 代码已经注释好无须编程基础。改改参数就行
+3. 通过USB连接ESP32到电脑。
+4. 使用Ardunio IDE上传你的新main.py。
 
 ## 模拟器
 用于测试，入口：
