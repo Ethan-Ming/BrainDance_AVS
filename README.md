@@ -1,5 +1,7 @@
 Englis|中文
 
+[![中文](https://github.com/Ethan-Ming/Cyberpunk_AVS/blob/main/readme.ch.md)]
+
 # Braindance Cosplay Prop
 
 This project is a cosplay prop that simulates the Audio-Visual-Stimulation (AVS) function from Cyberpunk 2077. The prop is based on the Braindance (BD) device from the game and can be used to create immersive experiences.
