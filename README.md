@@ -4,6 +4,8 @@
 
 This project is a cosplay prop that simulates the Audio-Visual-Stimulation (AVS) function from Cyberpunk 2077. The prop is based on the Braindance (BD) device from the game and can be used to create immersive experiences.
 
+<img src="url" width="50%" height="50%">
+
 ## Features
 
 - Switch colors and preset profiles with a button press
