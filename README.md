@@ -1,6 +1,4 @@
-Englis|中文
-
-[![中文](https://github.com/Ethan-Ming/Cyberpunk_AVS/blob/main/readme.ch.md)]
+[![中文](https://img.shields.io/badge/中文-ch-red.svg)](https://github.com/Ethan-Ming/Cyberpunk_AVS/blob/main/readme.ch.md)
 
 # Braindance Cosplay Prop
 
