@@ -18,7 +18,10 @@ source credie:imgur.com/gallery/hycC6M2
 - 1 x Microswitch
 - 2 x 5050 RGB LEDs
 - 1 x ESP32 board
-- 1 x virbrate motor
+- 1 x 3.7v vibrate motor (vibration feature is still work-in-progress)
+- 1 x 2N2222
+- 1 x 260ohm resistor 
+
 
 ## Installation
 
