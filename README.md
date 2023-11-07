@@ -16,7 +16,7 @@ source credie:imgur.com/gallery/hycC6M2
 ## Bill of Materials
 
 - 1 x Microswitch
-- 2 x 5050 RGB LEDs
+- 2 x 5050 RGB LEDs or KY-009
 - 1 x ESP32 board
 - 1 x 3.7v vibrate motor (vibration feature is still work-in-progress)
 - 1 x 2N2222
