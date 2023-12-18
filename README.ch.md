@@ -24,7 +24,7 @@
 4. 使用Ardunio IDE上传你的新main.py。
 
 ## 模拟器
-用于测试，入口：
+用于测试，入口：https://wokwi.com/projects/380527426842242049
 
 
 ## Cyberpunk 2077 粉丝
