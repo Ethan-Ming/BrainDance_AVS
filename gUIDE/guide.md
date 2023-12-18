@@ -15,6 +15,7 @@
  
  ## 也可以参考图解
  
- 🔗【[[上传中](https://wokwi.com/projects/380527426842242049)]】
+ 🔗【[[排线](https://wokwi.com/projects/380527426842242049)]】
+ 🔗【[[拼装](https://ibb.co/gw4htDD)]】
 
 ## 没了， 这只是个拼装教程。 不然呢？
