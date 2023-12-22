@@ -21,7 +21,7 @@
 1. 克隆本项目到本地。并下载安装[![en](https://img.shields.io/badge/Thonny-white.svg)](https://jimirobot.tw/esp32-micropython-tutorial-thonny-ide-105/#4_%E4%B8%8A%E5%82%B3%E8%88%87%E5%9F%B7%E8%A1%8C%E7%A8%8B%E5%BC%8F)
 2. 在MicoPython/main.py 中按你的喜好更改配置文件， 代码已经注释好无须编程基础。改改参数就行
 3. 通过USB连接ESP32到电脑。
-4. 使用Ardunio IDE上传你的新main.py。
+4. 使用[![en](https://img.shields.io/badge/Thonny-white.svg)](https://jimirobot.tw/esp32-micropython-tutorial-thonny-ide-105/#4_%E4%B8%8A%E5%82%B3%E8%88%87%E5%9F%B7%E8%A1%8C%E7%A8%8B%E5%BC%8F)上传你的新main.py。
 
 ## 模拟器
 用于测试，入口：https://wokwi.com/projects/380527426842242049
