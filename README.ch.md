@@ -5,7 +5,7 @@
 
 <img src="https://i.imgur.com/1NuFsKd_d.webp?maxwidth=760&fidelity=grand" width="50%" height="50%">
 
-## 使用
+## 快速使用
 
 如果是通过咸鱼购买的，程序已经烧录好。按照这个[![en](https://img.shields.io/badge/指南-blue.svg)](https://github.com/Ethan-Ming/Cyberpunk_AVS/blob/main/gUIDE/guide.md)拼好，插上电即可使用
 
@@ -16,7 +16,7 @@
 
 如果需要更改设置，参考下方手动设置
 
-## 手动设置（可选）
+## 手动设置
 
 1. 下载【[[Release](https://github.com/Ethan-Ming/BrainDance_AVS/releases/tag/release)]】到本地。并下载安装[![en](https://img.shields.io/badge/Thonny-white.svg)](https://jimirobot.tw/esp32-micropython-tutorial-thonny-ide-105/#4_%E4%B8%8A%E5%82%B3%E8%88%87%E5%9F%B7%E8%A1%8C%E7%A8%8B%E5%BC%8F)
 2. 使用thonny打开本项目的main.py 在thonny编辑器中中按你的喜好更改配置文件， 代码已经注释好无须编程基础。改改参数就行
