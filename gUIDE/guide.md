@@ -21,13 +21,14 @@
  ## 核心板拼装
  连线
  
- ![PXL_20240203_061555836](https://github.com/Ethan-Ming/BrainDance_AVS/assets/36059080/04372c65-4e2e-4b9c-bf47-90c05e0f592f)
+![PXL_20240203_061555836](https://github.com/Ethan-Ming/BrainDance_AVS/assets/36059080/556cabfb-7a29-4028-8365-72ee50966f5b)
+
 盖上盖子
 
 ![PXL_20240203_061614865](https://github.com/Ethan-Ming/BrainDance_AVS/assets/36059080/df22c6e9-e932-41ab-ba2f-20a9e53b1d30)
 
  ## 放置按钮
 
- ## 放置震动模块
+ ## 放置骨传导模块
 
  
