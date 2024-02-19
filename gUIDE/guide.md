@@ -25,7 +25,8 @@
 
 盖上盖子
 
-![PXL_20240203_061614865](https://github.com/Ethan-Ming/BrainDance_AVS/assets/36059080/df22c6e9-e932-41ab-ba2f-20a9e53b1d30)
+![PXL_20240203_061614865](https://github.com/Ethan-Ming/BrainDance_AVS/assets/36059080/a95b8164-9d53-440c-b207-f665710e2924)
+
 
  ## 放置按钮
 
