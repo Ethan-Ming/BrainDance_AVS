@@ -27,7 +27,9 @@
 这一步可以不焊锡，但是为了稳定建议还是焊一下比较好
 ![PXL_20240224_022927649~2](https://github.com/Ethan-Ming/BrainDance_AVS/assets/36059080/04d946b8-d4c9-4028-bbc4-c66309af3a59)
 
- 
+最后把2个放进‘BDW_1_EmitterCase’里就搞定啦！
+![20240224_170106_HDR#1](https://github.com/Ethan-Ming/BrainDance_AVS/assets/36059080/6f1dd14c-d6ab-44ad-925a-230a20734664)
+
  ### 核心板拼装
  连线
  
@@ -39,6 +41,15 @@
 
 
  ### 放置按钮
+
+ ![20240224_170915](https://github.com/Ethan-Ming/BrainDance_AVS/assets/36059080/41d66022-ca77-45c1-b058-ee1f41398545)
+
+连好后你会得到一个按钮模块
+![20240224_165656](https://github.com/Ethan-Ming/BrainDance_AVS/assets/36059080/2f01a314-9408-44c1-b750-4e806d6e570e)
+把它放进‘BDW_16_Seed’里就好啦
+![20240224_165933_HDR](https://github.com/Ethan-Ming/BrainDance_AVS/assets/36059080/4db3c30e-764c-4cbb-a699-fada24efe1b8)
+
+
 
  ### 放置骨传导模块
 
