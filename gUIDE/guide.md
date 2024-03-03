@@ -30,15 +30,6 @@
 最后把2个放进‘BDW_1_EmitterCase’里就搞定啦！
 ![20240224_170106_HDR#1](https://github.com/Ethan-Ming/BrainDance_AVS/assets/36059080/6f1dd14c-d6ab-44ad-925a-230a20734664)
 
- ### 核心板拼装
- 连线
- 
-![PXL_20240203_061555836](https://github.com/Ethan-Ming/BrainDance_AVS/assets/36059080/556cabfb-7a29-4028-8365-72ee50966f5b)
-
-盖上盖子
-
-![PXL_20240203_061614865](https://github.com/Ethan-Ming/BrainDance_AVS/assets/36059080/a95b8164-9d53-440c-b207-f665710e2924)
-
 
  ### 放置按钮
 
@@ -52,5 +43,16 @@
 
 
  ### 放置骨传导模块
+ 
+![IMG_1629 Large](https://github.com/Ethan-Ming/BrainDance_AVS/assets/36059080/db349ea8-b719-4940-ad83-d5ca556f7692)
+
+ ### 核心板拼装
+ 连线
+ 
+![PXL_20240203_061555836](https://github.com/Ethan-Ming/BrainDance_AVS/assets/36059080/556cabfb-7a29-4028-8365-72ee50966f5b)
+
+盖上盖子，大功告成！
+
+![PXL_20240203_061614865](https://github.com/Ethan-Ming/BrainDance_AVS/assets/36059080/a95b8164-9d53-440c-b207-f665710e2924)
 
  
